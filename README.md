@@ -6,7 +6,7 @@ Estoy aprendiendo a diseñar, estructurar y construir soluciones de software efi
 
 - 🎓 Actualmente cursando cuarto de carrera en la **UGR**.
 - 🚀 Enfocada en mejorar mis habilidades en arquitectura de software y metodologías ágiles.
-- 💼 Realizando als prácticas de empresa en Keifi-Izertis.
+- 💼 Realizando prácticas de empresa en Keifi-Izertis.
 
 ---
 
