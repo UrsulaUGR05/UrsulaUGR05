@@ -4,9 +4,9 @@
 
 Estoy aprendiendo a diseñar, estructurar y construir soluciones de software eficientes, escalables y bien arquitecturadas, centrándome tanto en el desarrollo de **APIs RESTful** para el backend como en la creación de experiencias móviles nativas y multiplataforma.
 
-- 🎓 Actualmente cursando tercero de carrera en la **UGR**.
+- 🎓 Actualmente cursando cuarto de carrera en la **UGR**.
 - 🚀 Enfocada en mejorar mis habilidades en arquitectura de software y metodologías ágiles.
-- 💼 En busca de una empresa donde poder realizar las prácticas para desarrollar mis habilidades.
+- 💼 Realizando als prácticas de empresa en Keifi-Izertis.
 
 ---
 
